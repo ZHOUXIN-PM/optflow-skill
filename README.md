@@ -1,5 +1,7 @@
 # optflow
 
+English | [中文](README_CN.md)
+
 A Claude Code skill that discovers optimization opportunities in any codebase and executes fixes end to end — with structured prioritization, behavior preservation, and per-step validation.
 
 ## What it does
