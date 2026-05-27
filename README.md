@@ -50,7 +50,7 @@ cp references/*.md ~/.claude/skills/optflow/references/
 Or symlink from wherever you cloned this repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/optflow-skill.git ~/optflow-skill
+git clone https://github.com/ZHOUXIN-PM/optflow-skill.git ~/optflow-skill
 ln -s ~/optflow-skill ~/.claude/skills/optflow
 ```
 
